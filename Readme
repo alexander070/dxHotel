@@ -1,0 +1,8 @@
+Instalar dependencias
+
+npm install
+
+
+Ejecutar test
+
+npx playwright test <name.spec>
