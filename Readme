@@ -6,8 +6,8 @@ npm install
 Ejecutar test
 
 Test relacionados con el login se ejecutan de la siguiente forma:
-npx playwright test login.spec
+npx playwright test login
 
 
 Test relacionados con seleccionar el hotel, se ejecutan de la siguiente forma:
-npx playwright test searchHotel.spec
+npx playwright test searchHotel
